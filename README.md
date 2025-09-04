@@ -1,3 +1,3 @@
 # Internet-Of-Things-IOT-lab
-semester 7
+semester 7th
 
